@@ -1,0 +1,107 @@
+body, h1, h2, h3, h4, p, div {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+body {
+
+  font-family: Arial, sans-serif;
+
+  background-color: #f7f7f7;
+
+}
+
+header {
+
+  background-color: #c8a2c8;
+
+  padding: 20px;
+
+  text-align: center;
+
+  color: #ffffff;
+
+}
+
+header h1 {
+
+  font-size: 36px;
+
+}
+
+main {
+
+  padding: 20px;
+
+}
+
+main h2 {
+
+  font-size: 24px;
+
+  margin-bottom: 20px;
+
+}
+
+section {
+
+  margin-bottom: 20px;
+
+}
+
+.receita {
+
+  background-color: #ffffff;
+
+  padding: 20px;
+
+  border-radius: 5px;
+
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.receita h3 {
+
+  font-size: 20px;
+
+  margin-bottom: 10px;
+
+}
+
+.receita h4 {
+
+  font-size: 16px;
+
+  margin-bottom: 5px;
+
+}
+
+.receita p {
+
+  font-size: 14px;
+
+  margin-bottom: 3px;
+
+}
+
+footer {
+
+  background-color: #c8a2c8;
+
+  padding: 20px;
+
+  text-align: center;
+
+  color: #ffffff;
+
+}
+
+footer h4 {
+
+  font-size: 16px;
+
+}
